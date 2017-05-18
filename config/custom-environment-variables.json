@@ -1,6 +1,4 @@
-module.exports = {
-
-
+{
     "RootPath": "ROOT_PATH",
 
     "Services" : {
@@ -9,6 +7,4 @@ module.exports = {
         "UserServicePort": "SYS_RESOURCESERVICE_PORT",
         "UserServiceVersion": "SYS_RESOURCESERVICE_VERSION"
     }
-};
-
-//NODE_CONFIG_DIR
+}

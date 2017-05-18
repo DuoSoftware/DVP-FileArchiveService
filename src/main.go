@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"encoding/json"
 	"os"
-	//"path/filepath"
 	"io/ioutil"
 	"path/filepath"
 )
