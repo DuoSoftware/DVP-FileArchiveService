@@ -1,0 +1,14 @@
+module.exports = {
+
+
+    "RootPath": "ROOT_PATH",
+
+    "Services" : {
+        "AccessToken": "HOST_TOKEN",
+        "UserServiceHost": "SYS_RESOURCESERVICE_HOST",
+        "UserServicePort": "SYS_RESOURCESERVICE_PORT",
+        "UserServiceVersion": "SYS_RESOURCESERVICE_VERSION"
+    }
+};
+
+//NODE_CONFIG_DIR
