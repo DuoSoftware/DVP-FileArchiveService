@@ -10,7 +10,8 @@ RUN go get github.com/DuoSoftware/DVP-FileArchiveService/src
 # (You may fetch or manage dependencies here,
 # either manually or with a tool like "godep".)
 RUN go install github.com/DuoSoftware/DVP-FileArchiveService/src
-
+RUN mkdir /usr/local/src/upload
+RUN chmod +x /usr/local/src/upload
 # Run the outyet command by default when the container starts.
 ENTRYPOINT /go/bin/src
 

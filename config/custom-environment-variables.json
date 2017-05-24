@@ -1,10 +1,10 @@
 {
-    "RootPath": "ROOT_PATH",
+    "RootPath": "FILE_DIRECTORY_PATH",
 
     "Services" : {
         "AccessToken": "HOST_TOKEN",
-        "UserServiceHost": "SYS_RESOURCESERVICE_HOST",
-        "UserServicePort": "SYS_RESOURCESERVICE_PORT",
-        "UserServiceVersion": "SYS_RESOURCESERVICE_VERSION"
+        "UserServiceHost": "SYS_USERSERVICE_HOST",
+        "UserServicePort": "SYS_USERSERVICE_PORT",
+        "UserServiceVersion": "SYS_USERSERVICE_VERSION"
     }
 }
